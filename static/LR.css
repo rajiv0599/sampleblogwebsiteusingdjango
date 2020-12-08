@@ -1,0 +1,55 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.container{
+    background-color: black;
+    
+}
+.col-md-5{
+    margin-top: 40px;
+}
+h1{
+    font-size: 50px;
+    color: white;
+    margin-top: 30px;
+    margin-bottom: 60px;
+}
+.label{
+    font-size: 20px;
+    font-weight: normal;
+}
+.input-group{
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.input-group-addon{
+    background: transparent;
+    border-radius: 0px;
+    border: 0px;
+    border-bottom: 1px solid beige;
+    font-size: 18px;
+    color: beige;
+}
+.form-control{
+    background: transparent;
+    border-radius: 0px;
+    border: 0px;
+    border-bottom: 1px solid beige;
+    padding: 15px;
+    color: white;
+}
+.btn-primary{
+    border-radius: 0px;
+    width: 95%;
+    font-size: 20px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+h2{
+    font-size: 30px;
+    color:beige;
+}
+.lrhead{
+    font-family: Algerian;
+}

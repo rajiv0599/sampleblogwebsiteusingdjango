@@ -1,0 +1,37 @@
+#websitename{
+    font-family: Algerian;
+    color: blue;
+}
+#nav{
+
+    text-decoration: none;
+}
+#navlinks
+{
+    background-color: black;
+}
+#blogimage{
+    
+    max-width: 100%;
+    height: auto;
+    margin: 10px;
+}
+#content{
+    padding-left: 25px;
+}
+#subheadingofblog{
+    text-align: justify;
+    
+}
+#paragraphscontent
+{
+    text-align: justify;
+
+}
+.container{
+    border-top: black 20px solid;
+    border-bottom: black 20px solid;
+}
+#header{
+    background-color: black;
+}
